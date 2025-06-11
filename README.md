@@ -50,8 +50,13 @@ The tests are designed following the Page Object Model pattern to ensure maintai
 
 **📋 Test Cases Overview**
 
-**Test Case ID	                                  Description**
-loginWithValidCredentials	                        Verify user can login successfully with valid username/password.
-loginWithInvalidCredentials	                      Verify error alert on login attempt with invalid password.
-logoutAfterSuccessfullyLogin	                    Verify user can logout successfully after login.
+**Test Case ID & Description**
+- loginWithValidCredentials
+  Verify user can login successfully with valid username/password.
+  
+- loginWithInvalidCredentials
+  Verify error alert on login attempt with invalid password.
+  
+- logoutAfterSuccessfullyLogin
+Verify user can logout successfully after login.
 
